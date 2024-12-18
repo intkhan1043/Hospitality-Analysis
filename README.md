@@ -33,7 +33,7 @@ This project features an interactive **Power BI dashboard** designed specificall
 ## Dashboard Link
 
 You can view the live **Power BI dashboard** here:  
-[**Hospitality Analysis Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNTQ3NTg2NWQtZWFmZC00NDMwLWJkZGMtZDdlYjliNjRiZjQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[**Hospitality Analysis Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMzNlYWM4ZmYtYTJmMy00ZjMzLTkzOTUtYmE0ZjA0ZDdlNTRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## Contact
